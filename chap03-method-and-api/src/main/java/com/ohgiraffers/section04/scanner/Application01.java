@@ -64,6 +64,7 @@ public class Application01 {
         char charValue = scr.nextLine().charAt(0);
         System.out.println(charValue);
 
+        //asdasdasd
 
     }
 }
