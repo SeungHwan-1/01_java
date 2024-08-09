@@ -25,6 +25,9 @@ public class Application03 {
         int[] iarr2 = {11,22,33,44,55};
         int[] iarr3 = new int[]{11,22,33,44,55};
 
+        System.out.println(iarr2.hashCode());
+        System.out.println(iarr3.hashCode());
+
         System.out.println("iarr2.length = " + iarr2.length);
         System.out.println("iarr3.length = " + iarr3.length);
 
